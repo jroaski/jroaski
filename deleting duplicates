@@ -6,8 +6,8 @@ import logging
 
 log = logging.getLogger()
 
-
-class Duplython:
+##
+class Duplithon:
     def __init__(self):
         self.home_dir = os.getcwd()
         self.File_hashes = []
