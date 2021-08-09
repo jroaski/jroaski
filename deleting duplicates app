@@ -1,0 +1,17 @@
+import time
+import os
+from hashlib import sha256
+
+import logging
+
+log = logging.getLogger()
+
+
+class Duplython:
+    def __init__(self):
+        self.home_dir = os.getcwd()
+        self.File_hashes = []
+        self.Cleaned_dirs = []
+        self.Total_bytes_saved = 0
+        self.block_size = 65536
+        self.count_cleaned = 0
