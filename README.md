@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jroaski
-- 👀 I’m interested in Programming, duh :D
-- 🌱 I’m currently learning Python with Django
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me? Via e-mail: jroaski@gmail.com
 
 <!---
